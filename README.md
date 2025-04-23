@@ -7,7 +7,7 @@ This is a basic PHP CRUD application for storing contacts, with support for bulk
 - Upload and import contacts from an XML file
 
 ## How to Use
-1. Create a MySQL database named `contacts_app`.
+1. Create a MySQL database named `crud_app`.
 2. Import the following table:
 
 ```sql
@@ -19,6 +19,6 @@ CREATE TABLE contacts (
 );
 ```
 
-3. Run the app in a local server (XAMPP, Laragon, etc.)
+3. Run the app in a local server.
 
 4. Use `import.php` to upload a sample XML like:
