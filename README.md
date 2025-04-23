@@ -1,4 +1,4 @@
-# Contact App with XML Import
+# CRUD App with XML Import
 
 This is a basic PHP CRUD application for storing contacts, with support for bulk import via XML.
 
